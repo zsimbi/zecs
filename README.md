@@ -1,3 +1,6 @@
+# IMPORTANT
+This is still a work in progress library. Expect things to change or break.
+
 # zecs
 An ecs (entity component system) written from scratch in c.
 The implementation may not be the best but it's okay for my games.
